@@ -1,0 +1,8 @@
+
+rkb1979003
+
+s3 deploy user
+
+user: s3-deploy
+Access key id: AKIAIZTITNZ5EURH4CPA
+Secet access key: xSw65rAOTuwYPnPbWBLcvCZ6z3kVC273lGCz1SKy
